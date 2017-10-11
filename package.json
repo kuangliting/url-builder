@@ -4,7 +4,7 @@
   "description": "通过database.config.js配置文件，自动生成前端访问后端所需的URL",
   "main": "app.js",
   "scripts": {
-    "dev": " node ./src/test/api.js",
+    "dev": "node ./back-end/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kuangliting",
